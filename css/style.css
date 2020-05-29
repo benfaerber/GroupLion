@@ -1,0 +1,43 @@
+body {
+	font-family: sans-serif;
+}
+
+.header {
+	color: #000;
+	background-color: #ccf2ff;
+}
+
+.group {
+	border: 2px solid #000;
+	padding: 10px;
+}
+
+.event {
+	border: 2px solid #000;
+	padding: 5px;
+	width: 300px;
+}
+
+.adminText {
+	color: #ff0000;
+}
+
+.memberText {
+	color: #248f24;
+}
+
+.message {
+	padding: 5px;
+}
+
+.error {
+	background-color: #ff4d4d;
+}
+
+.warning {
+	background-color: #ffff4d;
+}
+
+.info {
+	background-color: #33cccc;
+}

@@ -1,0 +1,3 @@
+Before the merge the following pages must be made:
+
+JS includes
